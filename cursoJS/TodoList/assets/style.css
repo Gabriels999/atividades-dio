@@ -1,0 +1,21 @@
+body {
+  margin-top: 5%;
+  text-align: center;
+  background-color: cadetblue;
+}
+.center {
+  margin-top: 8%;
+  display: flex;
+  gap: 3%;
+  justify-content: center;
+  align-items: center;
+}
+#new_item {
+  border-radius: 5px;
+  border-style: solid;
+}
+#list {
+  margin-top: 4%;
+  overflow-y: auto;
+  height: 300px;
+}
